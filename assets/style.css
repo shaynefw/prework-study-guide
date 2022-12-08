@@ -31,7 +31,7 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
+    border: 5px solid hsl(203, 100%, 15%);
     box-shadow: 5px 10px #5c5c5c;
 }
 code {
